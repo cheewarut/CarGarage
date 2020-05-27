@@ -1,8 +1,8 @@
-  1.Download project file name "Garage.zip"
-  2.Open project in netbeans
-  3.Import libraries if program error
-  4.Create new database name "Garage"
-  5.Import database form "cargarage.sql"
+  	1.Download project file name "Garage.zip"
+  	2.Open project in netbeans
+  	3.Import libraries if program error
+  	4.Create new database name "Garage"
+  	5.Import database form "cargarage.sql"
   
 If your database settings do not match You can follow this list
 
@@ -20,14 +20,14 @@ If your database settings do not match You can follow this list
 
 		- mysql-connector-java-5.1.23-bin.jar
 
-  3.Rename package in java code to new your package name
+  	3.Rename package in java code to new your package name
 
-  4.Run Main.java
+  	4.Run Main.java
 
 ChangeFile .exe
 
-  1.Clean and Build Project(Garage)
+  	1.Clean and Build Project(Garage)
 
-  2.Open launch4j-3.12-win32
+  	2.Open launch4j-3.12-win32
 
-  3.ChangeFile
+  	3.ChangeFile
